@@ -1,0 +1,57 @@
+2022-05-30 13:26:03.389 | DEBUG    | __main__:<module>:18 - 这是一条debug日志
+2022-05-30 13:26:03.389 | INFO     | __main__:<module>:19 - 这是一条info日志
+2022-05-30 13:26:03.389 | WARNING  | __main__:<module>:20 - 这是一条warning日志
+2022-05-30 13:26:03.389 | SUCCESS  | __main__:<module>:21 - 这是一条seccess日志
+2022-05-30 13:26:03.389 | ERROR    | __main__:<module>:22 - 这是一天error日志
+2022-05-30T13:27:18.333551+0800DEBUGdemo1_日志这是一条debug日志
+2022-05-30T13:27:18.333551+0800INFOdemo1_日志这是一条info日志
+2022-05-30T13:27:18.333551+0800WARNINGdemo1_日志这是一条warning日志
+2022-05-30T13:27:18.334589+0800SUCCESSdemo1_日志这是一条seccess日志
+2022-05-30T13:27:18.334589+0800ERRORdemo1_日志这是一天error日志
+2022-05-30T13:27:46.735328+0800 | DEBUG | demo1_日志 | 这是一条debug日志
+2022-05-30T13:27:46.735328+0800 | INFO | demo1_日志 | 这是一条info日志
+2022-05-30T13:27:46.735328+0800 | WARNING | demo1_日志 | 这是一条warning日志
+2022-05-30T13:27:46.735328+0800 | SUCCESS | demo1_日志 | 这是一条seccess日志
+2022-05-30T13:27:46.735328+0800 | ERROR | demo1_日志 | 这是一条error日志
+2022-05-30T13:28:45.419709+0800 | DEBUG | demo1_日志 | 18 | 这是一条debug日志
+2022-05-30T13:28:45.419709+0800 | INFO | demo1_日志 | 19 | 这是一条info日志
+2022-05-30T13:28:45.419709+0800 | WARNING | demo1_日志 | 20 | 这是一条warning日志
+2022-05-30T13:28:45.420706+0800 | SUCCESS | demo1_日志 | 21 | 这是一条seccess日志
+2022-05-30T13:28:45.420706+0800 | ERROR | demo1_日志 | 22 | 这是一天error日志
+2022-05-30T13:29:58.023077+0800 | DEBUG | demo1_日志 | 18 | 这是一条debug日志
+2022-05-30T13:29:58.024074+0800 | INFO | demo1_日志 | 19 | 这是一条info日志
+2022-05-30T13:29:58.024074+0800 | WARNING | demo1_日志 | 20 | 这是一条warning日志
+2022-05-30T13:29:58.024074+0800 | SUCCESS | demo1_日志 | 21 | 这是一条seccess日志
+2022-05-30T13:29:58.024074+0800 | ERROR | demo1_日志 | 22 | 这是一条error日志
+2022-05-30T13:30:22.708060+0800 | DEBUG | demo1_日志 | 18 | 这是一条debug日志
+2022-05-30T13:30:22.708060+0800 | INFO | demo1_日志 | 19 | 这是一条info日志
+2022-05-30T13:30:22.708060+0800 | WARNING | demo1_日志 | 20 | 这是一条warning日志
+2022-05-30T13:30:22.709059+0800 | SUCCESS | demo1_日志 | 21 | 这是一条seccess日志
+2022-05-30T13:30:22.709059+0800 | ERROR | demo1_日志 | 22 | 这是一条error日志
+{time:YYYY-MM-DD at HH:mm:ss} | DEBUG | demo1_日志 | 18 | 这是一条debug日志
+{time:YYYY-MM-DD at HH:mm:ss} | INFO | demo1_日志 | 19 | 这是一条info日志
+{time:YYYY-MM-DD at HH:mm:ss} | WARNING | demo1_日志 | 20 | 这是一条warning日志
+{time:YYYY-MM-DD at HH:mm:ss} | SUCCESS | demo1_日志 | 21 | 这是一条seccess日志
+{time:YYYY-MM-DD at HH:mm:ss} | ERROR | demo1_日志 | 22 | 这是一条error日志
+2022-05-30 at 13:37:58 | DEBUG | demo1_日志 | 18 | 这是一条debug日志
+2022-05-30 at 13:37:58 | INFO | demo1_日志 | 19 | 这是一条info日志
+2022-05-30 at 13:37:58 | WARNING | demo1_日志 | 20 | 这是一条warning日志
+2022-05-30 at 13:37:58 | SUCCESS | demo1_日志 | 21 | 这是一条seccess日志
+2022-05-30 at 13:37:58 | ERROR | demo1_日志 | 22 | 这是一条error日志
+2022-05-30 at 13:53:19 | DEBUG | demo1_日志 | 18 | 这是一条debug日志
+2022-05-30 at 13:53:19 | INFO | demo1_日志 | 19 | 这是一条info日志
+2022-05-30 at 13:53:19 | WARNING | demo1_日志 | 20 | 这是一条warning日志
+2022-05-30 at 13:53:19 | SUCCESS | demo1_日志 | 21 | 这是一条seccess日志
+2022-05-30 at 13:53:19 | ERROR | demo1_日志 | 22 | 这是一条error日志
+2022-05-30 at 13:53:19 | INFO | demo1_日志 | 26 | 我的名字叫{},今天星期{},'张三''1'
+2022-05-30 at 13:53:43 | DEBUG | demo1_日志 | 18 | 这是一条debug日志
+2022-05-30 at 13:53:43 | INFO | demo1_日志 | 19 | 这是一条info日志
+2022-05-30 at 13:53:43 | WARNING | demo1_日志 | 20 | 这是一条warning日志
+2022-05-30 at 13:53:43 | SUCCESS | demo1_日志 | 21 | 这是一条seccess日志
+2022-05-30 at 13:53:43 | ERROR | demo1_日志 | 22 | 这是一条error日志
+2022-05-30 at 13:53:51 | DEBUG | demo1_日志 | 18 | 这是一条debug日志
+2022-05-30 at 13:53:51 | INFO | demo1_日志 | 19 | 这是一条info日志
+2022-05-30 at 13:53:51 | WARNING | demo1_日志 | 20 | 这是一条warning日志
+2022-05-30 at 13:53:51 | SUCCESS | demo1_日志 | 21 | 这是一条seccess日志
+2022-05-30 at 13:53:51 | ERROR | demo1_日志 | 22 | 这是一条error日志
+2022-05-30 at 13:53:51 | INFO | demo1_日志 | 26 | 我的名字叫张三,今天星期1
